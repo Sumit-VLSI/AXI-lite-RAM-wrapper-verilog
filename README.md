@@ -178,7 +178,7 @@ SIMULATION PASSED: All checks successful.
 
 **Sumit**
 RTL Design | Verilog | AXI | FPGA
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+
 
 ## References
 
